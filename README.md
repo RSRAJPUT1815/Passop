@@ -1,2 +1,2 @@
-# Youtube
-A youtube tailwind clone
+# Passop
+A mini password manager for your local storage
